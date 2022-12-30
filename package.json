@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "colyseus": "^0.12.4",
+    "colyseus": "^0.14.24",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "http": "0.0.1-security",
